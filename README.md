@@ -54,3 +54,6 @@ This dataset can be used for:
 - Verify the accuracy of geolocation data (latitude and longitude) if used for precise mapping.
 
 This dashboard and dataset provide critical insights and areas of improvement for road safety measures. By understanding the provided data fields and their meanings, users can better utilize the dataset for their specific research and analysis needs.
+
+
+![project-1](https://github.com/dobariyaJay05/Road-accident-Analysis/assets/155874428/b40758cb-84de-4130-87ee-cd05cb778355)
